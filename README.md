@@ -16,5 +16,5 @@ Esta herramienta permite calcular el tiempo estimado necesario para descifrar co
 ## Instrucciones de ejecución
 
 ```bash
-python run_time.py
-python format.py
+python runtime.py
+python change_format.py
